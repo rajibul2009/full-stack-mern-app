@@ -58,7 +58,7 @@ function Table() {
       <Toaster richColors closeButton />
       <div className="container mt-5">
         <h1 className="mb-4" id="h1">
-         User Table Latest webhook 
+         User Table Latest webhook for setting
         </h1>
         <CreateUserModal addUser={addUser} />
         <EditUserModal />
