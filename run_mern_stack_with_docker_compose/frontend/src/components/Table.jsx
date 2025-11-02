@@ -58,11 +58,7 @@ function Table() {
       <Toaster richColors closeButton />
       <div className="container mt-5">
         <h1 className="mb-4" id="h1">
-<<<<<<< HEAD
-         User Table Rajibul Islam 
-=======
-         User Table Webook toke miscmached ok ok ok
->>>>>>> 891736508c5b2ce67221acc2b34b854a007cbf1b
+         User Table
         </h1>
         <CreateUserModal addUser={addUser} />
         <EditUserModal />
